@@ -2,19 +2,12 @@
 Redvault
 ========
 
-
 .. image:: https://img.shields.io/pypi/v/redvault.svg
         :target: https://pypi.python.org/pypi/redvault
-
-.. image:: https://img.shields.io/travis/ast0815/redvault.svg
-        :target: https://travis-ci.com/ast0815/redvault
 
 .. image:: https://readthedocs.org/projects/redvault/badge/?version=latest
         :target: https://redvault.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
-
-
-
 
 Distributed nearline backup system.
 
